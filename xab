@@ -1,0 +1,1001 @@
+Use "{{.CommandPath}} [command] --help" for more information about a command.{{end}}
+eJy0l8Fu4zgMhu95CqLn1g+QwwKLAgV62MViT3tzFYl2iMqil6Q7k7cf2Enb1JETO+nolNrm/38UKVV6gFfcrSHVlH6uAIws4hru/u7/vlsBBFQv1BpxWsMfKwCAvzh0EaFigdaJUqrBtghDCESuoaKIWqwAdMtipedUUb0Gkw5XABVhDLoepB4guQY/7fthuxbXUAt37eFJhqEfT4MQVMLNFEA/jv2OPZ33qPrxOGd8xrwfj5zMUdKDxTAjnyB7/Z7nAyWHc4wk2LBhSW0ZSe3LJ+94TsTtRm/OIPbjz7SPAq4ODvD8D7gQBFVRC3g2IAUHvSls0LtOEWh46LlpOIExUPKxC3gPG1QKqEOmPhKmMSgcyd9/sdrXaosuoChEekV4+e/hieWHk4Ch//VSnKj9iy6Ccid+ACcFQTUWDD3Xy/5NQe1RaHZ2Nxx2pWKyYrMz1Pz0RnLjN62z7Rq2Zm0hqC0nxaLXyso0VIvbV+LQ76cgnaKU/c+FCH1ckYmb49mgbTlcl/P/HaoVWYVZ6UpcmqjEgoVqSm4cOsewxy7fUJQ4XZNxPnSO83t/lJ7D0up+bTA1Z53mdOZxVCiCcku9JzTm2Lv6dFeY09zlELi09NNrbJpjvMvDxM58LBnwjfy4GudTy6a318kt5HNZjmkmwhey3AjBOZOFCKxF1cWY2xCXoUwpLOe5FSXfv9ewTCstWg01Mo3b/fqF4DkZJUx2y4wf/m3XyMVFvbkT77lLJruSlHM751VoFxXnwkX2w2e3Q51RmgsjWBOnb6rfebHZxSPbfVdDnZFaOEPf10qXBafQ3pFQhOX3XVgG+UX3Fc8pobchrfzZMnKql91WHj80gQImo4pQLpzsI77h0jNm5LrIxc0537QT2U67tcL9bbA4jZzjZ1f72VbQheIq1wZVXb30GJuPGvv9CgAA//9Q+TWneJysl7+O4zgMxvs8BTH9qLgyxQGHAw5X3AELzPSGIjO2MIropegM/PYL/5tNMrIjOXEVyOH3/SjSgvgKH9jtQTfa1LgDECsO9/Dy17DwsgMoMRi2jVjye/hzBwAwvoT/qWxdHxRqYikM+aOt9iDc9otHi64M+yHgFbw+4Wzzx7AGIF2De6iY2mZaiXgNfs7qgAGOxHDQ5uNTcwmGTo0We7DOSgefVmogV84Wk/0kcclyxWMMhvC1HEOKhV9KMJ5IsLDN1dtZSffkN28aLfUeArVsUOmy5GuE/jnZivW4C9NufjcOwamGSciQy/Qe90iN2asVoVQOY5sa+WGKqEwKw4HKrgjoRR06wVu7eyC1SKMYQ0M+oOq1ojIpIG1ALvqfmQh9nIrEpXieUGoqt+X8s8UgKqqQlC7ntl7LThHbynq9pdl67OKMHCz5LRnHQ1Oc5/4oDJW51b1usCBa2hDTSeM4InP2x3ZV7wWNFHtdoZcNzV0MgamlX/62lv1vD21YOLgvJUs8W3NbhfWUommNOrEPOJbdEs1CeCbLgxAUM8lEoKCOrXOxgzAPZUkhn+dRlHjfbmFZVkr5/iqkhavGlv435MV69PLIRk83mQpJ3dVL3W9DrRfuChsodlBuQrurmArnyAx/exxqRSkVhrGy5J9Uv3Wx5OJZ6Z7VUCtSmTv0vFa6L7iENiMhM/FDY4fDM+bevRxVKhaXdskMQVe5F594VIpfY3NvtA3TMEh8j0zxk81+UjPqUm1yPc0TdI7xNDcNPaSiCt+uU5EhPHsGH2f+sSfVc+bqBav++Zu8aOvDZDGM/lLjjPHv+/sPeEM+I09mfXd/ccXYIGd2/sDuk/i2pCu8/fP29h/MqjBNGr+JtgzPmzFGzcFEbTx9Vlz+mWrCdLosyqCbVYeV/t+U+nuNk2ZfiLI11lcDoaOqwnI+j9TuVwAAAP//QYrRgg==----AdlmAfakAghbAhomArabAranArmiArmnAvstBaliBamuBassBatkBengBhksBlisBopoBrahBraiBugiBuhdCakmCansCariChamCherCirtCoptCpmnCprtCyrlCyrsDevaDogrDsrtDuplEgydEgyhEgypElbaEthiGeokGeorGlagGongGonmGothGranGrekGujrGuruHanbHangHaniHanoHansHantHatrHebrHiraHluwHmngHmnpHrktHungIndsItalJamoJavaJpanJurcKaliKanaKharKhmrKhojKitlKitsKndaKoreKpelKthiLanaLaooLatfLatgLatnLekeLepcLimbLinaLinbLisuLomaLyciLydiMahjMakaMandManiMarcMayaMedfMendMercMeroMlymModiMongMoonMrooMteiMultMymrNarbNbatNewaNkdbNkgbNkooNshuOgamOlckOrkhOryaOsgeOsmaPalmPaucPermPhagPhliPhlpPhlvPhnxPiqdPlrdPrtiQaaaQaabQaacQaadQaaeQaafQaagQaahQaaiQaajQaakQaalQaamQaanQaaoQaapQaaqQaarQaasQaatQaauQaavQaawQaaxQaayQaazQabaQabbQabcQabdQabeQabfQabgQabhQabiQabjQabkQablQabmQabnQaboQabpQabqQabrQabsQabtQabuQabvQabwQabxRjngRoroRunrSamrSaraSarbSaurSgnwShawShrdShuiSiddSindSinhSoraSoyoSundSyloSyrcSyreSyrjSyrnTagbTakrTaleTaluTamlTangTavtTeluTengTfngTglgThaaThaiTibtTirhUgarVaiiVispWaraWchoWoleXpeoXsuxYiiiZanbZinhZmthZsyeZsymZxxxZyyyZzzzˇˇˇˇreinvocationPolicy indicates whether this webhook should be called multiple times as part of a single admission evaluation. Allowed values are "Never" and "IfNeeded".
+
+Never: the webhook will not be called more than once in a single admission evaluation.
+
+IfNeeded: the webhook will be called at least one additional time as part of the admission evaluation if the object being admitted is modified by other admission plugins after the initial webhook call. Webhooks that specify this option *must* be idempotent, able to process objects they previously admitted. Note: * the number of additional invocations is not guaranteed to be exactly one. * if additional invocations result in further modifications to the object, webhooks are not guaranteed to be invoked again. * webhooks that use this option may be reordered to minimize the number of additional invocations. * to validate an object after all mutations are guaranteed complete, use a validating admission webhook instead.
+
+Defaults to "Never".Error describes any problems reconciling the Spec.ConfigSource to the Active config. Errors may occur, for example, attempting to checkpoint Spec.ConfigSource to the local Assigned record, attempting to checkpoint the payload associated with Spec.ConfigSource, attempting to load or validate the Assigned config, etc. Errors may occur at different points while syncing config. Earlier errors (e.g. download or checkpointing errors) will not result in a rollback to LastKnownGood, and may resolve across Kubelet retries. Later errors (e.g. loading or validating a checkpointed config) will result in a rollback to LastKnownGood. In the latter case, it is usually possible to resolve the error by fixing the config assigned in Spec.ConfigSource. You can find additional information for debugging by searching the error message in the Kubelet log. Error is a human-readable description of the error state; machines can check whether or not Error is empty, but should not rely on the stability of the Error text across Kubelet versions.eJzsmM9ug0YQxu9+ilHODYf25kMvlar6UKlSIvWI1jDgUfAOmd21xdtXu5jUcRbMH1tWpHCywPN9v4XZYYZneMNmDURmBWDJVriGp83m5WkFkKPJhGpLrNfw+woA4G/OXYVQsECtxJAuYbN5gYpLKKhCk6wACsIqN+vw/2fQao+dvj9sU+MaSmFXn85EbPzxZ5CBQnj/1cMfnc9HRGemsgyN+Tgd8xzw9ccfrK0ibU4eYb2eoVX2KB8U5yTnEh2McdvUWGWd+XS5g6pYlxcXBrj88bpD+Ov19R+v3ApDxjkmUfcj6d9+vb3/v6RzPhq46m/IYup/Rs3fsDmy5NP9vWxwAKVzIG2s0hmCdvstSg8JygHlDiwBgwuwniuYAGs47ijbhXNd3gJqKw0clYESNYqymMdRM+Y3ujFlxtqith1oawEmnBIQzJAOmP8CVIDSzf9cUcAt503axSTbxmI8uVRF6vJKrexuDTtr60Tw3aGxiZeLquypFNWuyorDfha/jiUcpmZtcBnIKcGonoiQo7Gkg3qi8lw+l66x7nu0O77Mi0lPIaowxtpJNdHXSZX4XzPM3h1Kkxor9KVujXEN4TNsaxa74LlGwkfdWTNUsQZWalCSSNwYT8E9W5yexoadZLgggwULFEFZksM9GuPs2yKQ+pfZoirSvhRjOmM4vFZ6QDHEeg5GPHSUMxs7I9l8WNITOzrJVYk6vsEuuzbo6bfOJXM8UHbJMrwW+LR5Wp6k1YntpGuLO6fpCZ/IshCCYyYTEdgkhauqWEWahtKnMJ1nKYpQSVpdvr/msPQrjdkEJXJPxZ2T/77ZI43aLrnRp4JeIidX9cbe74ydb4JTMhyrj7PQriqOhas4C39bDjWgNBZGsCTWN3p+w2KjHx7Z5lYJNSA18Q7dLpWuC/ahdUgownKP7w5BeNJnB0FlWKf1TpS58SgZPj60+tDqx8fYd4fuHsN/+BBT1xW1mwxq5ipYXplaH9jZBuMZM8TJeub48NiJ9OT+mMnpcV30txvEezqX7zQz/XRPs9F+uqerPD/d0326p/8CAAD//y6Wud4=`url` gives the location of the webhook, in standard URL form (`scheme://host:port/path`). Exactly one of `url` or `service` must be specified.
+
+The `host` should not refer to a service running in the cluster; use the `service` field instead. The host might be resolved via external DNS in some apiservers (e.g., `kube-apiserver` cannot resolve in-cluster DNS as that would be a layering violation). `host` may also be an IP address.
+
+Please note that using `localhost` or `127.0.0.1` as a `host` is risky unless you take great care to run this webhook on all hosts which run an apiserver which might need to make calls to this webhook. Such installs are likely to be non-portable, i.e., not easy to turn up in a new cluster.
+
+The scheme must be "https"; the URL must begin with "https://".
+
+A path is optional, and if present may be any string permissible in a URL. You may use the path to pass an arbitrary string to the webhook, for example, a cluster identifier.
+
+Attempting to use a user or basic auth e.g. "user:password@" is not allowed. Fragments ("#...") and query parameters ("?...") are not allowed, either.NamespaceSelector decides whether to run the webhook on an object based on whether the namespace for that object matches the selector. If the object itself is a namespace, the matching is performed on object.metadata.labels. If the object is another cluster scoped resource, it never skips the webhook.
+
+For example, to run the webhook on any objects whose namespace is not associated with "runlevel" of "0" or "1";  you will set the selector as follows: "namespaceSelector": {
+  "matchExpressions": [
+    {
+      "key": "runlevel",
+      "operator": "NotIn",
+      "values": [
+        "0",
+        "1"
+      ]
+    }
+  ]
+}
+
+If instead you want to only run the webhook on any objects whose namespace is associated with the "environment" of "prod" or "staging"; you will set the selector as follows: "namespaceSelector": {
+  "matchExpressions": [
+    {
+      "key": "environment",
+      "operator": "In",
+      "values": [
+        "prod",
+        "staging"
+      ]
+    }
+  ]
+}
+
+See https://kubernetes.io/docs/concepts/overview/working-with-objects/labels for more examples of label selectors.
+
+Default to the empty LabelSelector, which matches everything.NamespaceSelector decides whether to run the webhook on an object based on whether the namespace for that object matches the selector. If the object itself is a namespace, the matching is performed on object.metadata.labels. If the object is another cluster scoped resource, it never skips the webhook.
+
+For example, to run the webhook on any objects whose namespace is not associated with "runlevel" of "0" or "1";  you will set the selector as follows: "namespaceSelector": {
+  "matchExpressions": [
+    {
+      "key": "runlevel",
+      "operator": "NotIn",
+      "values": [
+        "0",
+        "1"
+      ]
+    }
+  ]
+}
+
+If instead you want to only run the webhook on any objects whose namespace is associated with the "environment" of "prod" or "staging"; you will set the selector as follows: "namespaceSelector": {
+  "matchExpressions": [
+    {
+      "key": "environment",
+      "operator": "In",
+      "values": [
+        "prod",
+        "staging"
+      ]
+    }
+  ]
+}
+
+See https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/ for more examples of label selectors.
+
+Default to the empty LabelSelector, which matches everything.The phase of a Pod is a simple, high-level summary of where the Pod is in its lifecycle. The conditions array, the reason and message fields, and the individual container status arrays contain more detail about the pod's status. There are five possible phase values:
+
+Pending: The pod has been accepted by the Kubernetes system, but one or more of the container images has not been created. This includes time before being scheduled as well as time spent downloading images over the network, which could take a while. Running: The pod has been bound to a node, and all of the containers have been created. At least one container is still running, or is in the process of starting or restarting. Succeeded: All containers in the pod have terminated in success, and will not be restarted. Failed: All containers in the pod have terminated, and at least one container has terminated in failure. The container either exited with non-zero status or was terminated by the system. Unknown: For some reason the state of the pod could not be obtained, typically due to an error in communicating with the host of the pod.
+
+More info: https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle#pod-phaseThe continue option should be set when retrieving more results from the server. Since this value is server defined, clients may only use the continue value from a previous query result with identical query parameters (except for the value of continue) and the server may reject a continue value it does not recognize. If the specified continue value is no longer valid whether due to expiration (generally five to fifteen minutes) or a configuration change on the server, the server will respond with a 410 ResourceExpired error together with a continue token. If the client needs a consistent list, it must restart their list without the continue field. Otherwise, the client may send another list request with the token received with the 410 error, the server will respond with a list starting from the next key, but from the latest snapshot, which is inconsistent from the previous list results - objects that are created, modified, or deleted after the first list request will be included in the response, as long as their keys are after the "next key".
+
+This field is not supported when watch is true. Clients may start a watch from the last resourceVersion value returned by the server and not miss any modifications.eJzsmM2O2zYQx+9+ioEvaYFED+BD0SJA0AD9AnYvPTlcciQRoTgCOVqv+vQF9bHRypRNad3msjoZkmd+fw05H+IH+IrtAXzrGasdAGs2eID9XXdjvwNQ6KXTNWuyB/hpBwDwO6nGIOTkoBbOa1sMDsBQAbk26LMdgC/J8VGSzXVxAHYN7gByjUb5Q+fnA1hR4YQeLm5rPEDhqKmHOxEF4frUeYLcUQVcYlRCuKbEKVU0XD7fjHEvsGP837Rtnjqv5PQ/IpgEMc86YlqmelhX6FlU9YunozBhtPCzJ7Xg8gDvfn62fDf7Q6ULJ3rtQ/jPsSV5Dr9WUoNZtmCbgq0dFU5UK6m1I4neZ1uhWm0Enlum8Cr0XhRrQxu3SuE1Ht1KWDBZE84o1/syip1nEyykwDRiXNI81BfTsL/uS4S7u1+79EPLWvb517vL4KOw8IBAFoFy2NfC+xM5tQdysK+bB6PlV2z32YIqrwsruHHzICUKezYP8FAqpNFoGXpwqMBLYOWorlEd9TyKY4QjD5IkDQo+/9XXrxA6SdaiDGYeuBQMIgiu0YKwCnRVodKC0bSjqiy+Kb6px0e0fCYAn0RVhybzi5RYM75itTsACA85NUGj7aIbii78MHp/D5/tozBavYdPQptwA1lmP14TvxjyWC6N2eSpcRKziO2l9J0UKHLnAUvGRq2TEvmbggJp8c1j6byU0FOfkixri5aPkUJz/R3P3rNAyhJ8Xg75S4GNZdcetaejJHUziQle00Ua6ovabcRd9JYuymGhyd5wXa85XLGomttbbriL7lZH7LZbLcXpuo7eKEpu6Vfq9TAo+xqlzrUEpr5we5AOBaOCh7Yr3F8C9QtIqiph1bwnXh4c0Dmazz6TXhPGHPjjz/vQIwIF3Xlkk9pOxxlHtOBNCo/990ejaNQOeddqlto6c7uNfn//N5xKdBGi9oBPKBtextanjb1WNs6FTqu0Q8nk2leIiMyok3VyROctLEkjC1cg9wvNBKdSyzIq0J80y1LbYknh8N+NoRpAYxjgUYtOwsK0NA2LUPHPk/805wbwxrQrKVIQp9oWwhTsICej0HXnCEGKxVP/ObI0hZdozBaYwlw0hnsHF3AL3GjRvz6ULX1Zpc6CzdknZzI1YpnGLDYxu/25BhrNgM7Ld0mBkbwxBzbujz5qr9gg/9NiTU7pDBW7OWvFidlHsiy09UM8XxzdGZoeIr4dmkWxb4dmrzw0+zcAAP//vfvB9g==AAAAACSCADNDAEREAFFGAGTGAIIAALLBAMRMANNTAOGOAQTAARRGASSMATUTAUUSAWBWAXLAAZZEBAIHBBRBBDGDBEELBFFABGGRBHHRBIDIBJENBLLMBMMUBNRNBOOLBQESBRRABSHSBTTNBUURBVVTBWWABYLRBZLZCAANCCCKCDODCFAFCGOGCHHECIIVCKOKCLHLCMMRCNHNCOOLCPPTCRRICS
+Populated by the system when a graceful deletion is requested. Read-only. More info: https://git.k8s.io/community/contributors/devel/api-conventions.md#metadatalimit is a maximum number of responses to return for a list call. If more items exist, the server will set the `continue` field on the list metadata to a value that can be used with the same initial query to retrieve the next set of results. Setting a limit may return fewer than the requested amount of items (up to zero items) in the event all requested objects are filtered out and clients should only use the presence of the continue field to determine whether more results are available. Servers may choose not to support the limit argument and will return all of the available results. If limit is specified and the continue field is empty, clients may assume that no more results are available. This field is not supported if watch is true.
+
+The server guarantees that the objects returned when using continue will be identical to issuing a single list call without a limit - that is, no objects created, modified, or deleted after the first request is issued will be included in any subsequent continued requests. This is sometimes referred to as a consistent snapshot, and ensures that a client that is using limit to receive smaller chunks of a very large result can ensure they see all possible objects. If objects are updated during a chunked list the version of the object that was present at the time the first list result was calculated is returned.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7 +1¡r.¡r,¡r:>,É´„É´Ú 4‡Å´ÍÅ´Û 4Ôñ·ÕÑÂ√ãÏÀîÏœöÏ¬ãÏ€îÏﬂöÏ“!# †ù £ú ¢ü •û §ë ßê ¶ì ©í ®ï Ûµ ¥ Ò∑ ˆ∂ ˜â Ùà ıã ˙ä ˚ç ¯å ˘è ˛é ˇÅ ¸Ä ˝É ‚Ç „Ö ‡Ñ ·á ÊÜ Áô ‰ò Âõ Íö Îù Ëúÿìâﬂîã0,'2869/9 :::%;/;%46	7*000.111022-33>'	  <>5<5!5#5&4447133.<.):)<))+-+5$$''&"6""
+	?==
+=1
+=,
+=
+??
+<
+9!
+9)
+97
+99
+6
+
+6
+6
+7'
+78
+73
+'
+'&
+
+
+3
+/
+
+
+
+"
+
+
+ 
+
+>
++
+/
+6
+
+%96#25*;.-,87/
+57.97
+*%60;'+#
+#
+2
+	#;='
+</:+*&		'+	4%!3+
+))	,<2>
+1		3."	8>	"
+/1	74	","?$5<3=*8
+	
+$$;,$
+>>
+
+)			 '<
+."
+)*)<,	.	#'
+
+8	%2+&0
+)4
+*	$	0
+*(
+29,4'	
+	:	..	+0
+ 
+"0	;,/"1
+.
+
+7
+2
+.	1	:/0+-
+,	=	;/
+:	 	.	4	1#4"'8>57&9+
+.
+,>
+4#%"
++
+	+	+
+=
+	
+	&0(75'6.=;;,>%!
+	
+	0'	= >4>&?	?(
+-	:3	8:		72%
+"<	/<>+
+'?
+	<=
+	"	)=
+/4
+7
+:	?3	:/	
+	7"0(	 %<
++	
+70 >570
+=%,	9#	> <+,:%"
+$=+
+/
+ 
+'	#
+		22<	1
+
+-
+?
+	
+	1&
+/$<3$?5
+##02(++02
++
+-?
+#:
+#
+%$
+>+
+01
+1
+	9
+
+
+
+	*)	-	.1	.2	<	> 	3		2		%,&!"9(2/
+,3
+,1
+/5
+"1
+"
+?%
+<,
+?#
+>
+&
+
+:
++
+"
+)
+
+
+-
+(	)	/		.;>$>292:1,1<17#7*	'	:*1-"32:0$6445,. .#(/	%904#%9
+&2
+&0
+!
+!7
+5
+=4
+?
+>
+:
+9
+
+
+%
+-	-	,4	.,	)		6!	1	3+	8 	8=((	
++			3)!		%#>"%*;70;/-715+>79+, "0---__debug()
+{
+    if [[ -n ${BASH_COMP_DEBUG_FILE} ]]; then
+        echo "$*" >> "${BASH_COMP_DEBUG_FILE}"
+    fi
+}
+
+# Homebrew on Macs have version 1.3 of bash-completion which doesn't include
+# _init_completion. This is a very minimal version of that function.
+__my_init_completion()
+{
+    COMPREPLY=()
+    _get_comp_words_by_ref "$@" cur prev words cword
+}
+
+__index_of_word()
+{
+    local w word=$1
+    shift
+    index=0
+    for w in "$@"; do
+        [[ $w = "$word" ]] && return
+        index=$((index+1))
+    done
+    index=-1
+}
+
+__contains_word()
+{
+    local w word=$1; shift
+    for w in "$@"; do
+        [[ $w = "$word" ]] && return
+    done
+    return 1
+}
+
+__handle_reply()
+{
+    __debug "${FUNCNAME[0]}"
+    case $cur in
+        -*)
+            if [[ $(type -t compopt) = "builtin" ]]; then
+                compopt -o nospace
+            fi
+            local allflags
+            if [ ${#must_have_one_flag[@]} -ne 0 ]; then
+                allflags=("${must_have_one_flag[@]}")
+            else
+                allflags=("${flags[*]} ${two_word_flags[*]}")
+            fi
+            COMPREPLY=( $(compgen -W "${allflags[*]}" -- "$cur") )
+            if [[ $(type -t compopt) = "builtin" ]]; then
+                [[ "${COMPREPLY[0]}" == *= ]] || compopt +o nospace
+            fi
+
+            # complete after --flag=abc
+            if [[ $cur == *=* ]]; then
+                if [[ $(type -t compopt) = "builtin" ]]; then
+                    compopt +o nospace
+                fi
+
+                local index flag
+                flag="${cur%%=*}"
+                __index_of_word "${flag}" "${flags_with_completion[@]}"
+                COMPREPLY=()
+                if [[ ${index} -ge 0 ]]; then
+                    PREFIX=""
+                    cur="${cur#*=}"
+                    ${flags_completion[${index}]}
+                    if [ -n "${ZSH_VERSION}" ]; then
+                        # zsh completion needs --flag= prefix
+                        eval "COMPREPLY=( \"\${COMPREPLY[@]/#/${flag}=}\" )"
+                    fi
+                fi
+            fi
+            return 0;
+            ;;
+    esac
+
+    # check if we are handling a flag with special work handling
+    local index
+    __index_of_word "${prev}" "${flags_with_completion[@]}"
+    if [[ ${index} -ge 0 ]]; then
+        ${flags_completion[${index}]}
+        return
+    fi
+
+    # we are parsing a flag and don't have a special handler, no completion
+    if [[ ${cur} != "${words[cword]}" ]]; then
+        return
+    fi
+
+    local completions
+    completions=("${commands[@]}")
+    if [[ ${#must_have_one_noun[@]} -ne 0 ]]; then
+        completions=("${must_have_one_noun[@]}")
+    fi
+    if [[ ${#must_have_one_flag[@]} -ne 0 ]]; then
+        completions+=("${must_have_one_flag[@]}")
+    fi
+    COMPREPLY=( $(compgen -W "${completions[*]}" -- "$cur") )
+
+    if [[ ${#COMPREPLY[@]} -eq 0 && ${#noun_aliases[@]} -gt 0 && ${#must_have_one_noun[@]} -ne 0 ]]; then
+        COMPREPLY=( $(compgen -W "${noun_aliases[*]}" -- "$cur") )
+    fi
+
+    if [[ ${#COMPREPLY[@]} -eq 0 ]]; then
+        declare -F __custom_func >/dev/null && __custom_func
+    fi
+
+    # available in bash-completion >= 2, not always present on macOS
+    if declare -F __ltrim_colon_completions >/dev/null; then
+        __ltrim_colon_completions "$cur"
+    fi
+}
+
+# The arguments should be in the form "ext1|ext2|extn"
+__handle_filename_extension_flag()
+{
+    local ext="$1"
+    _filedir "@(${ext})"
+}
+
+__handle_subdirs_in_dir_flag()
+{
+    local dir="$1"
+    pushd "${dir}" >/dev/null 2>&1 && _filedir -d && popd >/dev/null 2>&1
+}
+
+__handle_flag()
+{
+    __debug "${FUNCNAME[0]}: c is $c words[c] is ${words[c]}"
+
+    # if a command required a flag, and we found it, unset must_have_one_flag()
+    local flagname=${words[c]}
+    local flagvalue
+    # if the word contained an =
+    if [[ ${words[c]} == *"="* ]]; then
+        flagvalue=${flagname#*=} # take in as flagvalue after the =
+        flagname=${flagname%%=*} # strip everything after the =
+        flagname="${flagname}=" # but put the = back
+    fi
+    __debug "${FUNCNAME[0]}: looking for ${flagname}"
+    if __contains_word "${flagname}" "${must_have_one_flag[@]}"; then
+        must_have_one_flag=()
+    fi
+
+    # if you set a flag which only applies to this command, don't show subcommands
+    if __contains_word "${flagname}" "${local_nonpersistent_flags[@]}"; then
+      commands=()
+    fi
+
+    # keep flag value with flagname as flaghash
+    if [ -n "${flagvalue}" ] ; then
+        flaghash[${flagname}]=${flagvalue}
+    elif [ -n "${words[ $((c+1)) ]}" ] ; then
+        flaghash[${flagname}]=${words[ $((c+1)) ]}
+    else
+        flaghash[${flagname}]="true" # pad "true" for bool flag
+    fi
+
+    # skip the argument to a two word flag
+    if __contains_word "${words[c]}" "${two_word_flags[@]}"; then
+        c=$((c+1))
+        # if we are looking for a flags value, don't show commands
+        if [[ $c -eq $cword ]]; then
+            commands=()
+        fi
+    fi
+
+    c=$((c+1))
+
+}
+
+__handle_noun()
+{
+    __debug "${FUNCNAME[0]}: c is $c words[c] is ${words[c]}"
+
+    if __contains_word "${words[c]}" "${must_have_one_noun[@]}"; then
+        must_have_one_noun=()
+    elif __contains_word "${words[c]}" "${noun_aliases[@]}"; then
+        must_have_one_noun=()
+    fi
+
+    nouns+=("${words[c]}")
+    c=$((c+1))
+}
+
+__handle_command()
+{
+    __debug "${FUNCNAME[0]}: c is $c words[c] is ${words[c]}"
+
+    local next_command
+    if [[ -n ${last_command} ]]; then
+        next_command="_${last_command}_${words[c]//:/__}"
+    else
+        if [[ $c -eq 0 ]]; then
+            next_command="_$(basename "${words[c]//:/__}")"
+        else
+            next_command="_${words[c]//:/__}"
+        fi
+    fi
+    c=$((c+1))
+    __debug "${FUNCNAME[0]}: looking for ${next_command}"
+    declare -F "$next_command" >/dev/null && $next_command
+}
+
+__handle_word()
+{
+    if [[ $c -ge $cword ]]; then
+        __handle_reply
+        return
+    fi
+    __debug "${FUNCNAME[0]}: c is $c words[c] is ${words[c]}"
+    if [[ "${words[c]}" == -* ]]; then
+        __handle_flag
+    elif __contains_word "${words[c]}" "${commands[@]}"; then
+        __handle_command
+    elif [[ $c -eq 0 ]] && __contains_word "$(basename "${words[c]}")" "${commands[@]}"; then
+        __handle_command
+    else
+        __handle_noun
+    fi
+    __handle_word
+}
+
+5	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íÙ”b
+™
+*(
+
+
+@ 	
+
+
+	
+
+*J
+
+@
+
+
+
+
+
+"
+
+ 	
+
+
+
+ 	*	
+
+
+
+	$
+Çà*
+B@
+
+
+
+
+J		
+ †
+
+
+
+	
+*
+
+
+@HJ	
+@ Ç@		J*" "		
+
+@
+
+"(
+		@A *J B	*JHF"*H@
+A@*Jj +@¿"*		B@@*	
+
+
+		Jä*J@A
+		 	
+
+H H	@!a JB@	( †
+
+HJ	
+
+
+
+JH@H"D"B		*J
+ 	"	JB@	*@
+
+
+Ä
+	(Ä	J* J	*
+
+"@
+	
+$*j"@J		*@
+
+*( 	
+@	AH@A	@D	JB@(B@	 #"	KOm$($"@BA"@
+@A*@	@@	JJ@  *(	)B
+! *Ç		
+
+
+ !A	"
+
+
+*¢$KA@		!	
+*D(" @$BJH@$§‰ 		JÄ `@	@DLHH@ABB@AC	@ "!a B	K		@A"@
+*( *( B( &	 *" Äà	
+		åÃ@ JBH*
+
+
+
+
+	
+	@	äàÇÄà" "(H"@*"(H	AJ	I@A	
+ (**+# 	
+B	! 	BAa@`H! @A	"@*(AKA"(Bb
+*" 
+		J	)Hà			&
+A@	)
+
+
+*($		ÇÄÅ	H@B¬	@ DJH@BE$d ( !( ®ËA@ AÑ*@`J@ @	B@
+$d " ! JH@"J	J	ä ŒÓ»¿
+Ä `@ @ H	
+KA**( 
+! "	*(	*( !	A	*	)" @	!@AE	J" 	"%•≠ÅÄ*"bFCÄÅ" ÇMIH@#B@" 	H@" 	*$*@(DL 
+
+
+*" !B(h HKA* `ã*@" 	(		AH	 
+
+DLJ	I	H @	@ *	)
+
+
+
+
+	@AB!	H@@" *™†Ä "`&	
+
+
+
+
+(å! 	E""  ! 	D$(	 H$d@B`B¬"  (	)
+JB@AJ	BHàÄ	 
+@	@	@$ ! @ @*@Hh`@AB		@AB"!# 	,(h`@	&@`çJ	*&@J	)(J(h@ @
+
+
+%@"KAEBFA(	 A*jA 	!)*	 
+
+
+
+(àÄ !@" B@"
+°†A@`*" KA	*"ä ÅÄ	àÇ*jJH@ ! 	 
+
+Åâ		( 
+
+
+
+
+
+
+
+
+
+A	
+AA*"bBA*j 	" @	
+
+
+
+
+
+
+
+
+ "-%	 !° H@	J@ABCJh 	JCKIA@"* @A!AD	 AÄ"@ 	*@BCAF"	
+" ! "$KO@BCA" %! ´
++Ñ @A(H@	àÄ@	*@J@Å¡Ä*"H»@A(	#%
+"A* `!$H	 
+
+
+
+
+
+
+
+P" Jà#! 	)@AH@ 	@ `JÄÅÇà	\KKru44444háááááááááááááááááááááÜÇ111G/*" ,A Å¡	" AH@¿!	 "!A `	(JN `	JBÖÑÄA¡¿ÄÅ@A , *@A"
+
+
+
+
+(CF!aC`b@A@!	A	IKAH@&§†ÄÄÇä("b Ä(*(@äJ (Ä(K%!a 	D$	 A@"	HA"@J@A $,ADJ&"*!#'DA!$*L"b  $d	 
+ @@		LD
+
+
+
+
+
+
+
+&!#'*" 	)%@*äàÄ H»@
+(	!	( !	"2( ,( `!	†ÄB 	*( @BA!a 	'	IA¡EÄH`@ A4$'&@A*"†$ (!	(" @BA	"(h`@Jä(H@! 	 !	J&	$@A---=)9)!	($ " %@AI	L	( B@`JB@AÇÄÅ$ Ä
+*"* 
+DJB@"`b  à@	J%@(	$	ÄÅB@AH!JJ @	)," @H "&*"b †§Ä@AC*! `	((@#C((( CGg	AB@
+
+
+
+@!A
+
+" 	" *+)!	@AJ@A "*!@"ÄÅ@&"	 *	 !"! D	"*B ä"* !`ÑÄÅ	EDä ÇÄÅA	à*@BA( 	"@		!$" â)!("Bb@`	HBAJ&.(KB	)!° CG(H»@@BAä	*( ÄA
+
+AB
+
+
+#! ÄH@  @BCA" àÄÅ D( @AC" 	(®†‡‰ÄÅ
+"à
+
+"
+
+ ( "$
+*	$%'e
+
+
+
+
+
+$d` 	$J A	" !, IA@@DLA"	Aa)!H@	H( ! @	A	)@EIHA*"*¢ @FDB"¢ÇÜÑ	 	I J@B`AD#'	IHä() @A ($" `!	( (@`%B@" J"B	!A*( 0,ñ%
+ó%
+BÇ	@L)@(E*®**JH@CD`BJb 	H@( !aDLA@å	DÇÉ 	IAÄ )(*3##""$åÃ HAÅ H!@BA(((	A$	@AEe#"*äãÄàJ KB	)!° DJH		ÄÅÑ A@!B"
+í©BA F∆@	IDL@	#" `@" (*JH@ACD`BH	J	 `@("$!A
+'%Ö¡).*Æé	 	"b %!%ed`@ !$`HAÄ
+* (,"	@A
+
+
+
+
+
+
+J 
+A!ãÀA$Dƒ@" ("D@!D	@$ 	àÄB¬@*(	I!a@ 
+@@	AH `aDåÑƒ$!@Ä
+#! " @$	HÄ
+
+J@"(H!@`ÄH»Ã¿ H ("#`@A !
+B@	Å ("AÅ	äÜÇ¬ÄÅAÑC%! &	ãÅÄ@+)A	! †ÄÅ"#!a 	()	H(@! *+	@!DLC$ "@`*¢†Ä  @D*KMÖÅ¡Ä	Ñ
+
+
+*( !	JB@	)D'#cJAC@	"bI! †ÄÅD	A	@ (H*@FD,D	!a 	@"bK	! ()+#%!CH	"!DäÇÄÅA	à"CB@™
+**"*!a 	$ÄÅäÇÄÅA	à"JB@Hî%
+ñ%
+ó%
+*@D(	) `**	IÅâJ!†#Ö≈ÑÅ
+J
+I%e `	@A@A'#" A@ &#*(@! `EGé*B!! B@àÄÅ	"JHLB@($ÑEDA*(I	hJ	A @`)
+
+$B@ †HÇ@	BbA&$	AHhb`C)!	)äJ 
+&@AED$"JH@BA	 *Ä	)"ÄKA%ea	I#!
+#!J¬Ç "bÇÄ)àÅ(h®A	E"!D	%! 00p` EG† ÄÅÉÑƒÄÇBFb"@A 	`h!AB"#!	) HJN*™		 `@AECGH(IKåàÄÑJFBH(h	!AÇÄ¿Åà@ÄC	(H A	)IME@CBFD@!a$( `A!a "A$	@+*" "b¢ BFf"b`DEA	$
+DH†	@%ADB*	ÇÄ¿Åà),ÅÄ"b!a	)C"!A¡A
+ 
+
+
+
+	M,ÇÄ¿Åà.&f$ ")!
+
+
+
+
+@A`†Ä
+"%A")(	$*J@#" 
+Ö≈ÄÅ	Ñ@AC
+!"Ñ¿
+( Å
+BJA
+# "(	O `@GNÅ
+Ä
+´
+´
+´
+
+*ä
+FD@Aa!I " *J`@AE B#*" 	I!†H
+*()"#
+	H%A
+
+™
+®
+†
+ 
+*@#c	! ()
+
+
+
+
+Tµ
+*™®†ÄÑ	A
+
+
+
+
+
+!D	!(@BADLH 	 )!&"$%EMmIL
+	Bb".Lâ…*j™(äÇ` KCDL 	HA Å
+Ä
++)(@ #,h$*J
+*** 
+
+*B	)@Ö≈ÅÄÑ!°a "*j ÍäàÄ!J@`
+#
+
+
+
+Ö#É	(h®´
+©
+®
+($` 	/-S
+S
+S
+S
+S
+* !	IH®† ÃLJÑÄ
+
+
+
+,(@ A!MK%eÄ"(®JH%DK*jJH@d BáIiÑÄ	! "b*(%eéèâ©çÅÉ	$ ã*B@!	)"&JC@B	FD	 (BD"$
+Tµ
+Ö
+Å
+#Läà(´™™
+´*ÇÄÅ$ @Å
+Ä
+ETµ
+H	(E" `!(H$ 	A)@BDd
+
+Y
+Y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+™™™™
+#!a¡¿@A"`D	H* ¶
+¢
+†
+†
+,lC√BD*	I!($§‰F∆BD&	IÅÄ†$(%!a DHIA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+†
+ÄÄÄPÄRÄZà
+
+
+
+
+
+Ñ(h® $&£
+°
+†
+\
+*DL Äb"	ÃƒÑ)&!a*( A@$Ä BCDEed`*HI(h® $'G(h®Ä%@	)!a°*   A,!(h+#"*åÃ$M
+
+H	
+
+
+
+
+(d
+©©°#!aAC	)BF¬$ ` ¬Ca	Hà*jbJ " 	@ckÛ"DLMÕÌml( 	" @.*!†åàâÄÅCBD#*jJ!J!K
+Hh*dD
+J,$d%	LHC(h®àÄI3	£
+°
+†
+44!l4;4444Z!!ááááááááááááááááááááááááááááááááááááááááááááááááááááááááááá≠™
+©™
+®™
+*	ECL"bJä@" *¢ÇÅ	É!a°+)©®†(ÜÑÄ
+û™
+™
+™
+™
+™
+™
+™
+!™™™
+™*
+HHÄPÄP
+à!Ä
+ ï
+ 1ï
+)ï
+%ï
+%Ä
+'Ä
+	≈
+≈
+≈
+≈
+E
+E
+@
+@
+@
+@@E
+E
+
+
+
+Ä*Ä*( J
+		Ñ
+Ä
+ÇÇ(Ä(
+ 
+ Üä†
+¯¯¯¯&˘"˘0
+ 
+¿™™™™™™™
+¿*¿:Ä:$J
+
+
+**
+
+****************** ä ŒNB
+*ü™
+è™
+á™
+É™
+Å™
+Ä™
+§$00:ÑÑJƒ‰
+§‰·Â*å¸¸¸A 
+*¸
+
+
+ˇ
+	A*D*F*F
+FFà
+
+
+
+ELC	,)(*b!°Å¡`D'aåƒd/ ™0à
+ÅãÀ Íj*
+E@	‡‡  #û™
+é™
+Ü™
+Ç™
+Ä™
+
+ü™
+è™
+á™
+É™
+Å™
+Ä™
+0!0	00
+00:V≤G´
+≤G´
+≤G´
+≤G™
+≤G®
+≤G¨
+≤G ÜÄS]B]B]B]B]B]B]B]B]B]B]B]B]B]B‡A‡A‡A‡A‡A‡A‡A‡A‡A‡A‡A‡A‡A‡A4444444
+áááááááááááááááááááááááááááááÜÇÜÇÜÇÜÇóóáááááá11ä.å@†
+ 
+  äƒ
+D
+L
+BÄ*T*B	å@
+D	ä*ÅÅJ*Ä "ÇÅ*CC
+G 
+
+
+
+
+
+GÜ
+A*äÑJ§JÄ
+®
+ÄàÇ" 
+à@¿*:@HAIYXXÿ»»E!,,Là 
+ccà$ !`
+  0*+)……´™§$'Ø
++)……´
+	0
+)
+!! @
+`ààà‡@àààÄ¿Ä@ç
+@@
+H
+¿à
+`
+ 
+   $	
+*?)©?)©PPÅ;44444áááááááááááááááóóóóóó(^^D
+D@@@T√ÉÉÇ¬ÇäP™
+PCR
+R…ââÄÄ™
+Ä™
+Ä™
+Ä™
+(
+
+Äàà»àÅÑ®
+KB(
+
+Ä™
+Ä™
+Ä™
+Ä™
+Ä™
+Ä™
+Ä™
+Ä™
+MML
+?®™
+®™
+®™
+®™
+®™
+®™
+J
+Ä`
+§§§0$ "?)TU·'•™
+?)TU·'?)TU·'•™
+?)TU·'CC
+G
+`r44ááááááááááÜÇÜÇÜÇóó1111$CC
+GZÇZÇÇÄ)óÚ¸
+¨Ñ
+¨ÑÑJÑBCC
+G …
+âÅ
+Å¡¡
+√Åd" d
+B
+B@d‡$	HbL§I44ÜÇÜÇà@ä
